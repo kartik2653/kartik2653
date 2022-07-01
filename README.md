@@ -5,10 +5,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Front End Development.
 - 🌱 I’m currently working on REACT NATIVE.
 - 👯 I’m looking to collaborate on cross platform apps.
-- 🤝 Love to contribute.
 <!--- 🤔 I’m looking fr help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
