@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Front End Development.
-- 🌱 I’m currently learning HTML CSS JAVASCRIPT jQUERY BOOTSTRAP.
+- 🌱 I’m currently working on REACT NATIVE.
 - 👯 I’m looking to collaborate on Front End Projects.
 - 🤝 Love to contribute.
 <!--- 🤔 I’m looking fr help with ...
